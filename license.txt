@@ -1,0 +1,11 @@
+Model Information:
+* title:	Ply 10600870 (merge)
+* source:	https://sketchfab.com/3d-models/ply-10600870-merge-95a0ba9d01224c6a814e4490a8857ad1
+* author:	lovewcat (https://sketchfab.com/lovewcat)
+
+Model License:
+* license type:	CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions can not be distributed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Ply 10600870 (merge)" (https://sketchfab.com/3d-models/ply-10600870-merge-95a0ba9d01224c6a814e4490a8857ad1) by lovewcat (https://sketchfab.com/lovewcat) licensed under CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
